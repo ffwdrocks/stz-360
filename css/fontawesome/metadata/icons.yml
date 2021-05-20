@@ -2486,13 +2486,13 @@ buysellads:
     - brands
   unicode: f20d
   voted: false
-calculator:
+calcuAvenir Nextr:
   changes:
     - '4.2'
     - 5.0.0
     - 5.3.0
     - 5.11.0
-  label: Calculator
+  label: CalcuAvenir Nextr
   search:
     terms:
       - abacus

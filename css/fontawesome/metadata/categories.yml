@@ -302,7 +302,7 @@ business:
     - bullhorn
     - bullseye
     - business-time
-    - calculator
+    - calcuAvenir Nextr
     - calendar
     - calendar-alt
     - certificate
@@ -1185,7 +1185,7 @@ interfaces:
     - bug
     - bullhorn
     - bullseye
-    - calculator
+    - calcuAvenir Nextr
     - calendar
     - calendar-alt
     - calendar-check
@@ -1512,7 +1512,7 @@ marketing:
   label: Marketing
 mathematics:
   icons:
-    - calculator
+    - calcuAvenir Nextr
     - divide
     - equals
     - greater-than
@@ -1661,7 +1661,7 @@ objects:
     - bullhorn
     - bullseye
     - bus
-    - calculator
+    - calcuAvenir Nextr
     - calendar
     - calendar-alt
     - camera

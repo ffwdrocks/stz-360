@@ -30,7 +30,7 @@
 
 .section-2-title h2{
   font-size: 8vw;
-  font-family: 'Lato';
+  font-family: 'Avenir Next';
 }
 
 .section-2-text{
@@ -42,7 +42,7 @@
 
 .section-2-text p{
   font-size: 3.4vw;
-  font-family: 'Lato';
+  font-family: 'Avenir Next';
 }
 
 .section-2-image{
@@ -90,7 +90,7 @@
 .section-3-title h2 {
   text-transform: uppercase;
   font-size: 5vw;
-  font-family: 'Lato';
+  font-family: 'Avenir Next';
   font-weight: 900;
   -webkit-text-stroke: .5px black;
   -webkit-text-fill-color: transparent;
@@ -113,7 +113,7 @@
 .section-3-text p{
   text-transform: uppercase;
   font-size: 3.4vw;
-  font-family: 'Lato';
+  font-family: 'Avenir Next';
   font-weight: bold;
   color: white;
   margin: 1em;
@@ -179,7 +179,7 @@
   .section-3-title h2 {
     text-transform: uppercase;
     font-size: 4vw;
-    font-family: 'Lato';
+    font-family: 'Avenir Next';
     font-weight: bold;
     -webkit-text-stroke: 1px black;
     -webkit-text-fill-color: transparent;

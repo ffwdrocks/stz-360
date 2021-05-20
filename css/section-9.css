@@ -87,7 +87,7 @@
   margin-bottom: 4vh;
   color: white;
   text-transform: uppercase;
-  font-family: 'Lato';
+  font-family: 'Avenir Next';
   font-weight: bold;
   font-size: 4.5vw;
   line-height: 8vh;
@@ -115,7 +115,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  font-family: 'lato';
+  font-family: 'Avenir Next';
   font-size: 5vw;
   text-transform: uppercase;
 }
@@ -127,7 +127,7 @@
   justify-content: center;
   align-items: center;
   background-color: black;
-  font-family: 'Lato';
+  font-family: 'Avenir Next';
   font-weight: bold;
   font-size: 4vw;
   line-height: 100%;
